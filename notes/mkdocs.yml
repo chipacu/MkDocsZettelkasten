@@ -1,0 +1,7 @@
+site_name: Chipacu's Web
+
+theme:
+  name: zettelkasten-solarized-light
+plugins:
+- tags
+- zettelkasten
